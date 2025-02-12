@@ -1,0 +1,5 @@
+Set up
+------
+
+conda create conda create -n alz python=3.9
+
